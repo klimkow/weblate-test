@@ -1,0 +1,3 @@
+[submodule "src/main/resources/i18n"]
+	path = src/main/resources/i18n
+	url = https://github.com/klimkow/weblate-locutions.git
